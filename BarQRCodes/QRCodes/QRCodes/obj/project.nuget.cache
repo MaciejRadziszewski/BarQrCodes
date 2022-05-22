@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "fcwevt/qOLkoGtSkihCv5jFKsoByJnL0Zi+XDK2323mVK8IaHghYxkZZSb0rEZbdZDt3/XFyOsNw6PiDN0t52w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MaciejRadziszewski(2\\Desktop\\Sezon 5\\UP\\Lab6\\QRCodes\\QRCodes\\QRCodes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MaciejRadziszewski(2\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\MaciejRadziszewski(2\\.nuget\\packages\\opencvsharp\\2.4.0.1\\opencvsharp.2.4.0.1.nupkg.sha512",
+    "C:\\Users\\MaciejRadziszewski(2\\.nuget\\packages\\qrcoder\\1.4.3\\qrcoder.1.4.3.nupkg.sha512",
+    "C:\\Users\\MaciejRadziszewski(2\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\MaciejRadziszewski(2\\.nuget\\packages\\zxing.net\\0.16.7\\zxing.net.0.16.7.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Pakiet „OpenCVSharp 2.4.0.1” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8” zamiast platformy docelowej projektu „net6.0-windows7.0”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
+      "libraryId": "OpenCVSharp",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
